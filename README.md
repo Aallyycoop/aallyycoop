@@ -15,7 +15,7 @@ I've graduated Hexlet school and now open for work as a Junior Frontend Develope
 
 📧 Email: [aallycoop@gmail.com](mailto:aallycoop@gmail.com)
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/allycoop){:target="_blank"}
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/allycoop){target="_blank"}
 
   ### Skills 
 <p align="left">
