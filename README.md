@@ -1,19 +1,18 @@
 Hi 👋 My name is Alexandra
-===========================
-
-Frontend Developer (JS, React, Redux)
 ------------------
 
-I've graduated Hexlet school and now open for work as a Junior Frontend Developer
+### Frontend Developer (JS, React, Redux)
 
-*   🌍  I'm based in Krasnodar, Russia
-*   🧠  I'm learning TypeScript
-*   📋 [CV](https://cv.hexlet.io/ru/resumes/2269)
+I've graduated from Hexlet school and now open for work as a Junior Frontend Developer
+
+*   🌍 I'm based in Krasnodar, Russia
+*   ✨ Currently learning TypeScript
+*   📋 [My CV](https://cv.hexlet.io/ru/resumes/2269)
 *   🧗‍♀️ Love climbing and hiking
 
    ### ✉️ Contact me
 
-📧 Email: [aallycoop@gmail.com](mailto:aallycoop@gmail.com)
+Email: [aallycoop@gmail.com](mailto:aallycoop@gmail.com)
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/allycoop)
 
