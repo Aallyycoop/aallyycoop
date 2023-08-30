@@ -39,5 +39,3 @@ Email: [aallycoop@gmail.com](mailto:aallycoop@gmail.com)
   <a href="http://www.github.com/aallyycoop"><img src="https://github-readme-stats.vercel.app/api?username=aallyycoop&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=facc15&bg_color=ffffff&hide_border=true&show_icons=true" alt="aallyycoop's GitHub stats" /></a>
   
   <a href="https://github.com/aallyycoop" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aallyycoop&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-  <img src="https://komarev.com/ghpvc/?username=aallyycoop&color=orange"/>
